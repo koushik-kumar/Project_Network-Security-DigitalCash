@@ -2,18 +2,21 @@
 
 Python version  - 3.8.0
 
-Other packages ( pip3 install <package_name> )
-- BitVector
-- pycryptodome==3.4.3
+#### For other packages - pip3 install <package_name>
+
+* BitVector
+* pycryptodome==3.4.3
+
+
 
 
 ### Step 1:
-Open Three Terminals or three tabs in a terminal.
+Open three terminals or terminal tabs
 
 ### Step 2:
-1. In terminal one load Bank function
-2. In terminal two load Customer function
-3. In terminal three load Merchant function
+1. In first terminal, run Bank function
+2. In second terminal, run Customer function
+3. In the third, run Merchant function
 
 ### Step 3:
 Follow steps in the terminal for Customer Function. (No user inputs are needed for Bank and Merchant Functions)
