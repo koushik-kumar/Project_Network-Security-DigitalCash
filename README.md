@@ -11,9 +11,9 @@ Other packages ( pip3 install <package_name> )
 Open Three Terminals or three tabs in a terminal.
 
 ### Step 2:
-i. In terminal one load Bank function
-ii. In terminal two load Customer function
-iii. In terminal three load Merchant function
+1. In terminal one load Bank function
+2. In terminal two load Customer function
+3. In terminal three load Merchant function
 
 ### Step 3:
 Follow steps in the terminal for Customer Function. (No user inputs are needed for Bank and Merchant Functions)
