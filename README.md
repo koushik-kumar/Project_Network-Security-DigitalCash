@@ -1,12 +1,12 @@
 # Project Setup
-
-## Current project is designed using python 3.8.0
-There may be a need to install a few python packages from pypl (python package library).
+===============
+Python version  - 3.8.0
+Other packages (pip3 install <package_name>)
 a. BitVector
 b. pycryptodome==3.4.3
 
-### If there is an error for missing package library, please install using:
-pip3 install <package_name>
+
+
 
 ### Step 1:
 Open Three Terminals or three tabs in a terminal.
