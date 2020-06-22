@@ -2,13 +2,9 @@
 
 Python version  - 3.8.0
 
-Other packages (pip3 install <package_name>)
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }BitVector
-    ol { list-style-type: upper-alpha; }pycryptodome==3.4.3
-</style>
-
-
+Other packages ( pip3 install <package_name> )
+- BitVector
+- pycryptodome==3.4.3
 
 
 ### Step 1:
